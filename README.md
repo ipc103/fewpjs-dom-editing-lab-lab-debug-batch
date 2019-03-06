@@ -184,7 +184,7 @@ This is the DOM tree!
 ## Moving On
 
 When you're ready to leave this lab, end the `httpserver` server by typing
-Control + C. Run `learn` from the command line. If the test pass, enter `learn
+Control + C. Run `learn` from the command line. If the tests pass, enter `learn
 submit`. You'll then be prompted to move on.
 
 ## Conclusion
